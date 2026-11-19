@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# Documents et données locales
+backend/data/
+*.pdf
+
+# IDE
+.vscode/
